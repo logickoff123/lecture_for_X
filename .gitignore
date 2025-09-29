@@ -1,0 +1,18 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Obsidian системные файлы
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/backups/
+.obsidian/plugins/
+.obsidian/core-plugins.json
+.obsidian/appearance.json
+.obsidian/app.json
+
+# Кэш и временные файлы
+.trash/
+*.lock
